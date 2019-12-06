@@ -1,5 +1,3 @@
-//This sketch simulates the keypress of Ctrl + R while toggling an LED
-
 #include <JC_Button.h>          // https://github.com/JChristensen/JC_Button
 #include <Keyboard.h>           // Keyboard library included in Arduino IDE installation
 
