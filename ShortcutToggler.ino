@@ -39,7 +39,7 @@ void loop()
         ledState = !ledState;             // check led state
         digitalWrite(LED_PIN, ledState);  // perform the led state
         keyboardaction();
-        delay(1000);
+        delay(100);
         Keyboard.releaseAll();
     }
 }
